@@ -1,0 +1,26 @@
+Date,Day,Month,Year,Customer_Age,Age_Group,Customer Gender,Country,State,CustomerID
+11/26/13,26,November,2013,19,Young Adults,Male,Canada,British Columbia,1
+11/26/15,26,November,2015,19,Young Adults,Male,Canada,British Columbia,2
+3/23/14,23,March,2014,49,Adults,Male,Australia,New South Wales,3
+3/23/16,23,March,2016,49,Adults,Male,Australia,New South Wales,4
+5/15/14,15,May,2014,47,Adults,Female ,Australia,New South Wales,5
+5/15/16,15,May,2016,47,Adults,Female ,Australia,New South Wales,6
+5/22/14,22,May,2014,47,Adults,Female ,Australia,Victoria,7
+5/22/16,22,May,2016,47,Adults,Female ,Australia,Victoria,8
+2/22/14,22,February,2014,35,Adults,Male,Australia,Victoria,9
+2/22/16,22,February,2016,35,Adults,Male,Australia,Victoria,10
+7/30/13,30,July,2013,32,Young Adults,Female ,Australia,Victoria,11
+7/30/15,30,July,2015,32,Young Adults,Female ,Australia,Victoria,12
+7/15/13,15,July,2013,34,Young Adults,Male,Australia,Victoria,13
+7/15/15,15,July,2015,34,Young Adults,Male,Australia,Victoria,14
+8/2/13,2,August,2013,29,Young Adults,Male,Canada,British Columbia,15
+8/2/15,2,August,2015,29,Young Adults,Male,Canada,British Columbia,16
+9/2/13,2,September,2013,29,Young Adults,Male,Canada,British Columbia,17
+9/2/15,2,September,2015,29,Young Adults,Male,Canada,British Columbia,18
+1/22/14,22,January,2014,29,Young Adults,Male,Canada,British Columbia,19
+1/22/16,22,January,2016,29,Young Adults,Male,Canada,British Columbia,20
+5/17/14,17,May,2014,29,Young Adults,Male,Canada,British Columbia,21
+5/17/16,17,May,2016,29,Young Adults,Male,Canada,British Columbia,22
+3/27/14,27,March,2014,51,Adults,Male,United States,Oregon,23
+3/27/16,27,March,2016,51,Adults,Male,United States,Oregon,24
+8/25/13,25,August,2013,49,Adults,Male,Canada,British Columbia,25

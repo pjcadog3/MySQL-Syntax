@@ -1,0 +1,26 @@
+Product_Category,Sub_Category,Product,Order_Quantity,Unit_Cost,Unit_Price,Profit,Cost,CustomerID
+Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,590,360,1
+Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,590,360,2
+Accessories,Bike Racks,Hitch Rack - 4-Bike,23,45,120,1366,1035,3
+Accessories,Bike Racks,Hitch Rack - 4-Bike,20,45,120,1188,900,4
+Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,238,180,5
+Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,297,225,6
+Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,199,180,7
+Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,100,90,8
+Accessories,Bike Racks,Hitch Rack - 4-Bike,22,45,120,1096,990,9
+Accessories,Bike Racks,Hitch Rack - 4-Bike,21,45,120,1046,945,10
+Accessories,Bike Racks,Helmet,8,25,120,398,360,11
+Accessories,Bike Racks,Helmet,8,25,120,398,360,12
+Accessories,Bike Racks,Helmet,7,25,120,349,315,13
+Accessories,Bike Racks,Helmet,7,25,120,349,315,14
+Accessories,Bike Racks,Helmet,5,25,120,369,225,15
+Accessories,Bike Racks,Helmet,7,25,120,517,315,16
+Accessories,Bike Racks,Helmet,2,25,120,148,90,17
+Accessories,Bike Racks,Helmet,1,25,120,74,45,18
+Accessories,Bike Racks,Helmet,1,25,120,74,45,19
+Accessories,Bike Racks,Helmet,1,25,120,74,45,20
+Accessories,Bike Racks,Water Bottle,6,30,120,443,270,21
+Accessories,Bike Racks,Water Bottle,8,30,120,590,360,22
+Accessories,Bike Racks,Water Bottle,9,30,120,524,405,23
+Accessories,Bike Racks,Water Bottle,7,30,120,407,315,24
+Accessories,Bike Racks,Water Bottle,3,30,120,221,135,25
